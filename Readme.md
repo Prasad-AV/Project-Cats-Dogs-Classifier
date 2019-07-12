@@ -1,4 +1,3 @@
-Name: Annapragada Venugopal Prasad
 Project Name: Images of dog and cats can be collected from Kaggle website .Train a convolutional network for its recognition.
 
 Project Details:
